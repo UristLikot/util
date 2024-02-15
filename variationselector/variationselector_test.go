@@ -13,7 +13,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"go.mau.fi/util/variationselector"
+	"github.com/UristLikot/util/variationselector"
 )
 
 func TestAdd(t *testing.T) {

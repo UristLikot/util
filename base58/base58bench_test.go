@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"go.mau.fi/util/base58"
+	"github.com/UristLikot/util/base58"
 )
 
 var (

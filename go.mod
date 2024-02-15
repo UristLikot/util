@@ -1,4 +1,4 @@
-module go.mau.fi/util
+module github.com/UristLikot/util
 
 go 1.21
 
